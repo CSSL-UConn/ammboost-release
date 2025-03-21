@@ -1,0 +1,6 @@
+[submodule "abstract_amm"]
+	path = abstract_amm
+	url = git@github.com:cssl-uconn/go-amm
+[submodule "bgls"]
+	path = bgls
+	url = git@github.com:cssl-uconn/bgls
